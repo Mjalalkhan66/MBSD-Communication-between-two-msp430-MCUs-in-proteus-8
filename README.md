@@ -1,0 +1,1 @@
+Designed and simulated communication between two MSP430 microcontrollers using Proteus 8. Implemented data transmission and reception to demonstrate microcontroller interfacing and communication in embedded systems.
